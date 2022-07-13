@@ -1,0 +1,1528 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900&display=swap');
+/*Switcher Bitcoin*/
+
+.custom-container{
+	max-width: 1140px;
+	padding-right: 15px;
+    padding-left: 15px;
+	margin: auto;
+}
+body.page-template-template-switcher-Bitcoin-white-trader{
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+.invest-banner-switcher {
+	background-size: cover !important; 
+	padding: 0;
+	float: left;
+	width: 100%;
+}
+.invest-inner {
+	float: left;
+	width: 100%;
+	padding: 20px 10px 2px;
+	height: auto;
+}
+.invest-banner-left {
+	float: left;
+	width: 66.6%;
+	padding:0 15px;
+}
+.invest-banner-right {
+	float: right;
+	width: 33.3%;
+}
+.invest-banner-left h1 {
+	color: #fff;
+	font-weight: 400;
+	font-size: 40px;
+	margin: 0;
+	padding: 60px 0 20px;
+	float: left;
+	width: 100%;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	line-height: 45px;
+}
+.invest-banner-left span {
+	color: #fff;
+	font-size: 30px;
+	font-weight: 400;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	line-height: 35px;
+}
+.discover-outer {
+	background: #000;
+}
+.discover-inner {
+	float: left;
+	width: 100%;
+	padding: 30px 10px 40px;
+}
+.discover-inner h2 {
+	text-align: center;
+	font-size: 40px;
+	font-weight: 200;
+	color: #fff;
+	margin: 0 0 30px;
+	line-height: 45px;
+}
+.discover {
+	background: rgba(0, 0, 0, 0.7);
+	border-radius: 20px;
+	border: 1px solid #ffc900;
+	padding: 33px 15px 15px;
+	width: 100%;
+	float: left;
+}
+.discover-inner2 {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	margin-bottom: 20px;
+}
+.article-image {
+	width: 14%;
+	float: left;
+}
+.article-image img {
+	width: 40px;
+}
+.article-image p {
+	font-size: 16px;
+	color: #fff;
+	margin-top: 4px;
+	font-weight: 200;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+.graph-img {
+	width: 35.5%;
+	padding: 0 15px;
+}
+.graph-text {
+	width: 25%;
+	padding: 0 15px;
+}
+.graph-text {
+	width: 26%;
+	padding: 0 15px;
+	font-size: 16px;
+	color: #fff;
+	font-weight: 200;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+.graph-button {
+	width: 24%;
+	text-align: center;
+	padding: 0 0 0 15px;
+}
+.graph-button a {
+	font-family: "Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+	line-height: 1.25;
+	text-align: center;
+	text-decoration: none;
+	font-size: 20px;
+	position: relative;
+	color: #66666;
+	padding: 10px;
+	border-radius: 6px;
+	width: 100%;
+	background-color: #ffc900;
+	display: inline-block;
+}
+.customers-outer {
+	background-size: cover !important;
+	background: url(images/btc_gold_bkg2.jpg) center top no-repeat;
+}
+.currencie-outer {
+	background: #ffc900;
+	text-align: center;
+}
+.currencie-inner {
+	float: left;
+	width: 100%;
+	text-align: center;
+	padding: 0px 0 40px;
+}
+.currencie-inner h2 {
+	font-size: 40px;
+	color: #132a3e;
+	padding: 10px 0 10px 0;
+	text-align: center;
+	font-weight: 200;
+	margin: 0 0 0.5rem;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	line-height: 1.2;
+}
+.currencie-outer .customers {
+	float: none;
+	width: 80%;
+	text-align: center;
+	display: inline-block;
+}
+.currencie-slide {
+	width: 100%;
+	display: inline-block;
+	padding: 0;
+}
+.invest-button {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    margin: 30px 0 0;
+}
+.invest-button a {
+	font-family: "Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+	line-height: 1.25;
+	text-align: center;
+	display: inline-block;
+	font-size: 20px;
+	position: relative;
+	color: #ffc900;
+	padding: 10px;
+	border-radius: 6px;
+	width: 100%;
+	background-color: #000;
+	max-width: 600px;
+}
+
+.bottom-outer {
+	background: #000000;
+}
+.bottom-inner {
+	text-align: center;
+	width: 100%;
+	float: left;
+	padding: 60px 0 20px;
+	font-size: 12px;
+	line-height: 18px;
+	color: #fff;
+	font-weight: 300;
+}
+.customers-inner {
+	float: left;
+	width: 100%;
+	padding: 20px 0 40px;
+	position: relative;
+	height: auto;
+}
+.customers-inner h2,
+.features_section_trader h2 {
+	text-align: center;
+	font-size: 40px;
+	color: #fff;
+	font-weight: 200;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	line-height: 1.2;
+	padding: 10px 0 10px;
+	margin-bottom: 0.5rem;
+}
+.features_section_trader h2 {
+    padding: 0;
+}
+.customers-outer .customers {
+	float: left;
+	width: 100%;
+}
+
+.customers-inner2 {
+	background: rgba(0, 0, 0, 0.7) !important;
+	border-radius: 20px !important;
+	padding: 15px 10px;
+	border: 1px solid #ffc900;
+	width: 100%;
+	display: inline-block;
+}
+.customers-slide {
+	float: left;
+	width: 100%;
+}
+.customers-slide h4 {
+	color: #ffc900 !important;
+	font-size: 13px;
+	line-height: 16px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-weight: 400;
+}
+.customers-slide p {
+	color: #fff !important;
+	font-size: 12px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-weight: 200;
+}
+.customer-img span {
+	width: 60px;
+}
+.customer-star {
+	float: left;
+	width: auto;
+	padding-left: 10px;
+	padding-top: 10px;
+}
+.customer-star p {
+	padding: 0;
+	margin: 0;
+}
+.customer-star img {
+	width: 78px !important;
+}
+.owl-carousel .owl-stage-outer {
+	padding: 40px 0;
+	/* height: 252px; */
+	height: auto;
+}
+.customer-img {
+	display: flex;
+}
+.owl-item.active.center {
+	transform: scale(1.2);
+	position: relative;
+	z-index: 9;
+}
+
+.owl-demo3.owl-carousel .owl-item {
+	padding: 0 38px;
+}
+.owl-demo3 .owl-nav.disabled {
+	display: none !important;
+}
+.owl-dots {
+	display: none;
+}
+.owl-demo3.owl-carousel .owl-stage-outer {
+	padding: 0;
+}
+
+/*Switcher-Bitcoin-end*/
+
+/*Switcher-Bitcoin-white*/
+.invest-logo {
+	width: 100%;
+	float: left;
+}
+.discover-outer.discover-white {
+    background: #fff;
+    /* padding-bottom: 200px; */
+}
+.discover-white .discover-inner h2 {
+	color: #132a3e;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+.discover-white .discover {
+	background: rgb(19, 42, 62);
+	border: 1px solid #5d8ab3;
+}
+.discover-white .article-image img {
+	width: 80px;
+	border-radius: 4px;
+}
+
+.graph-button a {
+	color: #fff;
+	background-color: #6daf0f;
+}
+.graph-button a:hover {
+	color: #212529;
+	text-decoration:none;
+}
+.customers-outer.customer-white{
+	background-size: cover !important;
+	background: url(images/bc_bkg.jpg) center top no-repeat;
+	background-size: auto;
+	padding: 0;
+}
+.customer-white .customers-inner2 {
+	background: rgba(255, 255, 255, 0.89) !important;
+	border: 1px solid #858484;
+}
+.customer-white .customers-slide h4 {
+	color: rgb(19, 42, 62) !important;
+}
+.customer-white .customers-slide p {
+	color: rgb(19, 42, 62) !important;
+}
+.currencie-outer.currencie-white {
+	background: #fff;
+	text-align: center;
+	padding: 0;
+}
+.currencie-white .invest-button a,
+.invest-button-green a {
+	color: #fff;
+	background-color: #6daf0f;
+}
+.currencie-white .invest-button a:hover {
+	color: #212529;
+	text-decoration:none;
+}
+.bottom-white .bottom-inner {
+	color: #9f9fa0;
+}
+.bottom-outer.bottom-white {
+	background: #fff;
+	padding: 0;
+}
+.switcher-white .invest-banner-right iframe {
+	/* border-radius: 20px; */
+	width: 100% !important;
+}
+.currencie-white .customers {
+	display: inline-block;
+	float: none;
+	width: 100%;
+}
+.graph-img img {
+	max-width: 100%;
+}
+.bitcoin-white-header {
+    float: left;
+    width: 100%;
+    background-color: #343a40;
+}
+.white-header-inner {
+    float: left;
+    width: 100%;
+    padding:8px 15px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+.white-right a {
+	font-family: "Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+	line-height: 1.25;
+	opacity: 1;
+	text-align: center;
+	text-decoration: none;
+	transition: opacity 0.15s linear;
+	-webkit-appearance: none;
+	letter-spacing: 0;
+	display: block;
+	font-size: 20px;
+	position: relative;
+	color: #fff !important;
+	padding: 10px;
+	border-radius: 6px;
+	width: 100%;
+	border: none !important;
+	cursor: pointer;
+	background-color: #0908cc;
+	outline: none;
+	outline-width: medium;
+	font-weight: 400;
+	text-decoration: none !important;
+}
+.white-right {
+	float: right;
+	width: auto;
+}
+
+.customers-outer.invest-outer {
+	background: #174684;
+	padding: 0;
+	float: left;
+	width: 100%;
+}
+.invest-outer .customers-inner {
+	padding-left: 0;
+	padding-right: 0;
+}
+.invest-outer .slide1 {
+	display: flex;
+}
+.invest-outer .slide1 .customer-img {
+	max-width: 190px;
+	margin-right: 0;
+	width: 190px;
+	text-align: center;
+	display: inline-block;
+}
+.customer-text strong {
+	padding-right: 5px;
+}
+.customer-text h4 {
+	font-size: 20px;
+	color: #fff;
+	font-family: Gotham,"Helvetica Neue",Helvetica,Arial,"sans-serif";
+}
+.invest-outer .slide1 {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	margin: 1.5rem 0 1.5rem;
+}
+.customer-text {
+	padding-left: 20px;
+	width: calc(93% - 190px);
+}
+.customer-text p {
+	font-size: 20px;
+	line-height: 25px;
+	color: #fff;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-weight: 200;
+	margin: 0;
+}
+.invest-banner-left p {
+	color: #fff;
+	font-size: 16px;
+	margin-top: 20px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-weight: 200;
+}
+.graph-img p {
+	color: #fff;
+	font-size: 12px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-weight: 200;
+	margin: 15px 0;
+}
+.graph-text p {
+	font-size: 12px;
+	margin-top: 15px;
+	font-weight: 200;
+}
+
+.page-template-template-switcher-Bitcoin-white .custom-container {
+	max-width: 1140px;
+}
+.bottom-customer {
+	text-align: center;
+	color: #fff;
+	font-size: 16px;
+	font-weight: 200;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	margin-top: 30px;
+}
+
+.bottom-customer a {
+	color: #fff !important;
+}
+.customer-img img {
+	max-width: 62px;
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1; 
+  padding-top: 100px;
+  left: 0;
+  top: 0;
+  width: 100%; 
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0,0.4);
+  z-index: 99;
+}
+
+/* Modal Content */
+.modal-content.popup {
+	/* background-color: rgba(19, 42, 62, 1); */
+	margin: auto;
+	/* padding: 20px 25px 30px; */
+	border: none;
+	width: 80%;
+	max-width: 498px;
+	border-radius: 20px;
+	position: relative;
+}
+
+.banner_form_box h3 {
+	text-align: center;
+	color: #fff !important;
+	font-weight: 600;
+	padding-bottom: 20px;
+	padding-top: 0px;
+	font-size: 30px !important;
+	margin: 0;
+}
+/* The Close Button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.popup .close {
+	top: 4px !important;
+	right: 10px !important;
+	color: #fff !important;
+	position: absolute;
+	font-size: 25px;
+	display: none;
+}
+.invest-popup iframe {
+	width: 100% !important;
+	/* border-radius: 20px; */
+}
+.invest-banner-right .banner_form_box {
+	/* background: rgba(19, 42, 62, 0.8);
+	padding: 20px; */
+	border-radius: 20px;
+	display: inline-block;
+	width: 100%;
+	box-shadow:none;
+}
+.invest-popup h3 {
+	text-align: center;
+	margin: 0 0 20px;
+	font-size: 32px;
+	color: #fff;
+	font-weight: 600;
+}
+
+.page-template-template-switcher-Bitcoin-white section {
+	float: left;
+	width: 100%;
+}
+
+.page-template-template-switcher-Bitcoin-white-trader .invest-logo {
+    width: 260px;
+    line-height: 0;
+}
+.page-template-template-switcher-Bitcoin-white-trader .invest-logo img {
+    max-width: 100%;
+	height:45px;
+   /*  width: 100%; */
+}
+.page-template-template-switcher-Bitcoin-white-trader .white-right {
+	margin-top: 0;
+}
+.page-template-template-switcher-Bitcoin-white-trader .banner_form_box h3 {
+	padding-bottom: 20px;
+	padding-top: 30px;
+}
+.page-template-template-switcher-Bitcoin-white-trader .invest-inner {
+	padding: 20px 0px 21px;
+}
+.page-template-template-switcher-Bitcoin-white-trader .discover-inner {
+	padding: 20px 0px 50px;
+}
+.page-template-template-switcher-Bitcoin-white-trader .discover-inner h2 {
+	margin: 0 0 0.5rem;
+	padding: 10px 0 10px;
+}
+.page-template-template-switcher-Bitcoin-white-trader .discover-white .article-image img {
+	width: 40px;
+}
+
+.page-template-template-switcher-Bitcoin-white-trader .currencie-white .customers {
+	width: 96%;
+	padding-top: 1rem;
+}
+.page-template-template-switcher-Bitcoin-white-trader .invest-banner-left h1 {
+	padding: 30px 0 20px;
+}
+
+.page-template-template-switcher-Bitcoin-white .customer-white .custom-container {
+	max-width: 1250px;
+}
+
+.page-template-template-switcher-Bitcoin-white .currencie-inner {
+	padding: 0 0 40px;
+}
+
+.page-template-template-switcher-Bitcoin-white .owl-demo3.owl-carousel .owl-item {
+	padding: 0 37px;
+}
+.faq_section {
+    margin-top: 0 !important;
+}
+.faq_box_inr {
+    padding: 0 !important;
+    box-shadow: none !important;
+}
+.faq_box_inr p {
+    font-size: 14px;
+}
+/* .get_start_btn_outer {
+    margin-top: 100px;
+} */
+.bottom-btn-outer .invest-button {
+    margin-top: 0;
+}
+/*Switcher-Bitcoin-white-end*/
+
+/* 20-JAN-2021-START */
+/* .how_it_works_section.how_it_works_section_trader {
+    height: auto;
+    margin-top: 0;
+    background-color: transparent;
+}
+.how_it_works_section_trader .how_it_works_inr {
+    top: 0;
+}
+.how_it_works_section.how_it_works_section_trader {
+    height: auto;
+    margin-top: 0;
+    background-color: transparent;
+    padding: 60px 0;
+}
+.how_it_works_section_trader .how_it_works_step {
+    background-color: #174684 !important;
+}
+.how_it_works_section_trader .how_it_works_inr h2 {
+    color: #174684;
+    text-transform: capitalize;
+}
+.how_it_works_section_trader  .how_it_works_box h5 {
+    color: #174684;
+}
+.how_it_works_section_trader .invest-button {
+    margin-top: 40px;
+}
+.how_it_works_section_trader .invest-button a{
+	background-color: #174684;
+	color:#fff;
+}
+.how_it_works_box_outer {
+    padding: 0 10px;
+}
+.how_it_works_box_outer .how_it_works_box {
+    height: 100%;
+} */
+.features_section.features_section_trader {
+    padding: 60px 0;
+     background-color: #001132;
+}
+/*  .features_section.features_section_trader .features_box_inr{
+	 background-color: #001132;
+} */
+/* .features_section_trader .invest-button a {
+    background-color: #7f57ca;
+    color: #fff;
+} */
+/* 20-JAN-2021-END */
+
+
+
+/*MEDIA CSS START*/
+@media only screen and (min-width: 1200px) and (max-width: 992px) 
+{
+/* Switcher Bitcoin*/
+
+.invest-banner-left {
+	padding-right: 40px;
+}
+.invest-banner-left span {
+	font-size: 30px;
+}
+.discover-inner h2 {
+	font-size: 40px;
+}
+.customers-inner h2,
+.features_section_trader h2 {
+	font-size: 40px;
+}
+.currencie-inner h2 {
+	font-size: 40px;
+	margin: 0 0 20px;
+}
+.currencie-slide {
+	width: 100%;
+	padding: 0;
+}
+
+.customers-inner {
+	padding: 30px 20px 40px;
+}
+.owl-demo3.owl-carousel .owl-item {
+	padding: 0 20px;
+}
+
+.owl-carousel .owl-stage-outer {
+	/* height: 282px; */
+}
+
+.page-template-template-switcher-Bitcoin-white .owl-demo3.owl-carousel .owl-item {
+	padding: 0 30px;
+}
+
+.page-template-template-switcher-Bitcoin-white .invest-button {
+	margin: 30px 0 0;
+}
+/* Switcher Bitcoin-end*/
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) 
+{
+	
+/* Switcher Bitcoin*/
+
+.invest-banner-left {
+	padding-right: 0;
+	width: 100%;
+}
+.invest-banner-left span {
+	font-size: 30px;
+}
+.discover-inner h2 {
+	font-size: 40px;
+}
+.customers-inner h2 ,
+.features_section_trader h2 {
+	font-size: 40px;
+}
+.currencie-inner h2 {
+	font-size: 40px;
+	margin: 0 0 20px;
+	padding: 0;
+}
+.currencie-slide {
+	width: 100%;
+	padding: 0;
+}
+.invest-banner-left h1 {
+	font-size: 40px;
+	padding: 30px 0 10px;
+}
+.invest-inner {
+	padding: 30px 0 40px;
+	height: auto;
+}
+.article-image {
+	width: 100%;
+	float: left;
+}
+.discover-inner2 {
+	align-items: baseline;
+}
+.graph-img {
+	width: 100%;
+	padding: 0;
+}
+.graph-text {
+	width: 100%;
+	padding: 0 0px 20px;
+}
+.graph-button {
+	width: 100%;
+	padding: 0;
+}
+
+.owl-carousel .owl-stage-outer {
+	padding: 30px 0px;
+}
+.customers-inner {
+	padding: 30px 20px 40px;
+}
+.customers-slide h4 {
+	font-size: 11px;
+	line-height: 16px;
+}
+.customers-slide p {
+	font-size: 10px;
+}
+.customer-img span {
+	width: 30px;
+}
+.customer-star img {
+	width: 50px !important;
+}
+.customer-star {
+	padding-top: 3px;
+}
+
+.invest-banner-right {
+	width: 100%;
+	margin-top: 30px;
+}
+
+.owl-demo3.owl-carousel .owl-item {
+	padding: 0 10px;
+}
+
+.discover-inner {
+	padding: 20px 0px 30px;
+}
+.switcher-white .invest-banner-right iframe {
+	/* border-radius: 20px; */
+	width: 100% !important;
+}
+.page-template-template-switcher-Bitcoin-white .owl-demo3.owl-carousel .owl-item {
+	padding: 0 15px;
+}
+
+
+.page-template-template-switcher-Bitcoin-white .owl-demo3.owl-carousel .owl-item {
+	padding: 0 10px;
+}
+.page-template-template-switcher-Bitcoin-white .article-image {
+	width: 100%;
+}
+.page-template-template-switcher-Bitcoin-white .graph-img {
+	width: 100%;
+}
+.page-template-template-switcher-Bitcoin-white .graph-button {
+	width: 100%;
+	padding: 0;
+}	
+.page-template-template-switcher-Bitcoin-white .invest-button {
+	margin: 30px 0 0;
+}
+.owl-carousel .owl-stage-outer {
+	/* height: 242px; */
+}
+
+.page-template-template-switcher-Bitcoin-white .discover {
+	width: 100%;
+	margin: 0;
+}
+/* Switcher Bitcoin-end*/
+
+}
+
+
+@media only screen and (max-width: 767px){
+.discover-outer.discover-white {
+    padding-bottom: 0;
+}
+.features_section.features_section_trader {
+    padding: 40px 0;
+}
+
+}
+
+ 
+@media only screen and (min-width: 640px) and (max-width: 767px) 
+{
+/* Switcher Bitcoin*/
+
+.invest-banner-left {
+	padding-right: 0;
+	width: 100%;
+}
+.invest-banner-left span {
+	font-size: 30px;
+	line-height: 40px;
+}
+.discover-inner h2 {
+	font-size: 40px;
+}
+.customers-inner h2,
+.features_section_trader h2 {
+	font-size: 40px;
+}
+.currencie-inner h2 {
+	font-size: 40px;
+	margin: 0 0 20px;
+	padding: 0;
+}
+.currencie-slide {
+	width: 100%;
+	padding: 0;
+}
+.invest-banner-left h1 {
+	font-size: 40px;
+	padding: 30px 0 10px;
+}
+.invest-inner {
+	padding: 30px 0 40px;
+	height: auto;
+}
+.article-image {
+	width: 100%;
+	float: left;
+}
+.discover-inner2 {
+	align-items: baseline;
+}
+.graph-img {
+	width: 100%;
+	padding: 0;
+}
+.graph-text {
+	width: 100%;
+	padding: 0 0px 20px;
+}
+.graph-button {
+	width: 100%;
+	padding: 0;
+}
+.bottom-inner {
+	padding: 20px 0 20px;
+}
+
+.owl-item.active.center {
+	padding: 0 60px;
+}
+
+.customers-inner {
+	padding: 30px 20px 30px;
+}
+.invest-banner-right {
+	width: 100%;
+	margin-top: 30px;
+}
+
+.owl-demo3.owl-carousel .owl-item {
+	padding: 0 10px;
+}
+.currencie-outer .customers {
+	width: 100%;
+}
+
+.discover-inner {
+	padding: 20px 0px 30px;
+}
+.switcher-white .invest-banner-right iframe {
+	width: 100% !important;
+}
+.invest-outer .slide1 {
+	margin-bottom: 20px;
+	flex-wrap: wrap;
+	text-align: center;
+}
+.invest-outer .slide1 .customer-img {
+	max-width: 100%;
+	margin-right: 0px;
+	display: inline-block;
+	width: 100%;
+}
+.invest-outer .slide1 .customer-img img {
+	max-width: 70px;
+}
+.customer-text {
+	padding-left: 0px;
+}
+.customer-text p {
+	font-size: 20px;
+	line-height: 25px;
+}
+.invest-outer .customers-inner h2 {
+	margin-bottom: 20px;
+}
+.customer-text {
+	padding-left: 0;
+	width: calc(100% - 0px);
+}
+.page-template-template-switcher-Bitcoin-white-trader .banner_form_box h3 {
+	padding-bottom: 20px;
+	padding-top: 10px;
+	line-height: 30px;
+	font-weight: 300;
+}
+.invest-popup h3 {
+	font-weight: 300;
+}
+.page-template-template-switcher-Bitcoin-white-trader .discover-inner h2 {
+	margin: 0 0 20px;
+	line-height: 45px;
+}
+.page-template-template-switcher-Bitcoin-white-trader .discover-inner2 {
+	position: relative;
+}
+.page-template-template-switcher-Bitcoin-white-trader .graph-img p {
+	position: absolute;
+	bottom: 0;
+}
+.page-template-template-switcher-Bitcoin-white-trader .graph-button {
+	width: 100%;
+	padding: 0;
+	margin-bottom: 50px;
+}
+
+.page-template-template-switcher-Bitcoin-white .invest-banner-left h1 {
+	padding: 40px 0 10px;
+}
+.page-template-template-switcher-Bitcoin-white .graph-text {
+	padding: 10px 0px 20px;
+}
+.page-template-template-switcher-Bitcoin-white .owl-demo3.owl-carousel .owl-item {
+	padding: 0 10px;
+}
+
+
+
+.page-template-template-switcher-Bitcoin-white .owl-demo3.owl-carousel .owl-item {
+	padding: 0 10px;
+}
+.page-template-template-switcher-Bitcoin-white .article-image {
+	width: 100%;
+}
+.page-template-template-switcher-Bitcoin-white .graph-img {
+	width: 100%;
+}
+.page-template-template-switcher-Bitcoin-white .graph-button {
+	width: 100%;
+	padding: 0;
+}	
+.page-template-template-switcher-Bitcoin-white .invest-button {
+	margin: 30px 0 0;
+}
+.owl-carousel .owl-stage-outer {
+	/* height: 242px; */
+}
+.page-template-template-switcher-Bitcoin-white .discover {
+	width: 100%;
+	margin: 0;
+}
+/* Switcher Bitcoin-end*/
+
+}
+
+
+@media only screen and (min-width: 480px) and (max-width: 639px) 
+{
+/* Switcher Bitcoin*/
+
+.invest-banner-left {
+	padding-right: 0;
+	width: 100%;
+}
+.invest-banner-left span {
+	font-size: 30px;
+	line-height: 35px;
+}
+.discover-inner h2 {
+	font-size: 40px;
+}
+.customers-inner h2,
+.features_section_trader h2 {
+	font-size: 40px;
+}
+.currencie-inner h2 {
+	font-size: 40px;
+	margin: 0 0 20px;
+	padding: 0;
+}
+.currencie-slide {
+	width: 100%;
+	padding: 0;
+}
+.invest-banner-left h1 {
+	font-size: 40px;
+	padding: 25px 0 5px;
+}
+.invest-inner {
+	padding: 20px 0 30px;
+	height: auto;
+}
+.article-image {
+	width: 100%;
+	float: left;
+}
+.discover-inner2 {
+	align-items: baseline;
+}
+.graph-img {
+	width: 100%;
+	padding: 0;
+}
+.graph-text {
+	width: 100%;
+	padding: 0 0px 20px;
+}
+.graph-button {
+	width: 100%;
+	padding: 0;
+}
+.bottom-inner {
+	padding: 20px 0 20px;
+}
+.discover-inner {
+	padding: 30px 0 30px;
+}
+.owl-item.active.center {
+	padding: 0 50px;
+}
+
+#owl-demo .owl-prev {
+	display: none;
+}
+#owl-demo .owl-next {
+	display: none;
+}
+
+.invest-banner-right {
+	width: 100%;
+	margin-top: 20px;
+}
+.owl-demo3.owl-carousel .owl-item {
+	padding: 0 10px;
+}
+.currencie-outer .customers {
+	width: 100%;
+}
+
+.white-right a {
+	font-size: 15px;
+	padding: 10px 15px;
+	margin-top: 6px;
+}
+
+.switcher-white .invest-banner-right iframe {
+	width: 100% !important;
+}
+.invest-outer .slide1 {
+	margin-bottom: 20px;
+	flex-wrap: wrap;
+	text-align: center;
+}
+.invest-outer .slide1 .customer-img {
+	max-width: 100%;
+	margin-right: 0px;
+	display: inline-block;
+	width: 100%;
+}
+.invest-outer .slide1 .customer-img img {
+	max-width: 70px;
+}
+.customer-text {
+	padding-left: 0px;
+}
+.customer-text p {
+	font-size: 20px;
+	line-height: 25px;
+}
+.invest-outer .customers-inner h2 {
+	margin-bottom: 20px;
+}
+.customer-text {
+	padding-left: 0;
+	width: calc(100% - 0px);
+}
+
+.page-template-template-switcher-Bitcoin-white-trader .banner_form_box h3 {
+	padding-bottom: 20px;
+	padding-top: 10px;
+	line-height: 30px;
+	font-weight: 300;
+}
+.invest-popup h3 {
+	font-weight: 300;
+}
+.page-template-template-switcher-Bitcoin-white-trader .discover-inner h2 {
+	margin: 0 0 20px;
+	line-height: 45px;
+}
+.page-template-template-switcher-Bitcoin-white-trader .discover-inner2 {
+	position: relative;
+}
+.page-template-template-switcher-Bitcoin-white-trader .graph-img p {
+	position: absolute;
+	bottom: 0;
+	margin: 0;
+}
+.page-template-template-switcher-Bitcoin-white-trader .graph-button {
+	width: 100%;
+	padding: 0;
+	margin-bottom: 40px;
+}
+.invest-outer .customers-inner {
+	padding-left: 0%;
+	padding-right: 0%;
+}
+.currencie-inner {
+	padding: 20px 0 40px;
+}
+.page-template-template-switcher-Bitcoin-white-trader .invest-banner-left h1 {
+	padding: 30px 0 20px;
+	line-height: 45px;
+}
+
+.page-template-template-switcher-Bitcoin-white .invest-banner-left h1 {
+	padding: 40px 0 10px;
+}
+.page-template-template-switcher-Bitcoin-white .graph-text {
+	padding: 10px 0px 20px;
+}
+.page-template-template-switcher-Bitcoin-white .owl-demo3.owl-carousel .owl-item {
+	padding: 0 10px;
+}
+
+.page-template-template-switcher-Bitcoin-white .owl-demo3.owl-carousel .owl-item {
+	padding: 0 10px;
+}
+.page-template-template-switcher-Bitcoin-white .article-image {
+	width: 100%;
+}
+.page-template-template-switcher-Bitcoin-white .graph-img {
+	width: 100%;
+}
+.page-template-template-switcher-Bitcoin-white .graph-button {
+	width: 100%;
+	padding: 0;
+}	
+.page-template-template-switcher-Bitcoin-white .invest-button {
+	margin: 30px 0 0;
+}
+.owl-carousel .owl-stage-outer {
+	/* height: 242px; */
+}
+.page-template-template-switcher-Bitcoin-white .discover {
+	width: 100%;
+	margin: 0;
+}
+/* Switcher Bitcoin-end*/
+
+}
+
+
+@media only screen and (max-width: 479px) 
+{
+/* Switcher Bitcoin*/
+
+.invest-banner-left {
+	padding-right: 0;
+	width: 100%;
+}
+.invest-banner-left span {
+	font-size: 30px;
+	line-height: 40px;
+}
+.discover-inner h2 {
+	font-size: 40px;
+}
+.customers-inner h2,
+.features_section_trader h2 {
+	font-size: 40px;
+}
+.currencie-inner h2 {
+	font-size: 40px;
+	margin: 0 0 15px;
+	padding: 0;
+	line-height: 45px;
+}
+.currencie-slide {
+	width: 100%;
+	padding: 0;
+}
+.invest-banner-left h1 {
+	font-size: 40px;
+	padding: 20px 0 5px;
+}
+.invest-inner {
+	padding: 20px 0 30px;
+	height: auto;
+}
+.article-image {
+	width: 100%;
+	float: left;
+}
+.discover-inner2 {
+	align-items: baseline;
+}
+.graph-img {
+	width: 100%;
+	padding: 0;
+}
+.graph-text {
+	width: 100%;
+	padding: 0 0px 20px;
+}
+.graph-button {
+	width: 100%;
+	padding: 0;
+}
+.bottom-inner {
+	padding: 20px 0 20px;
+}
+.discover-inner {
+	padding: 30px 0 30px;
+}
+.invest-button {
+	margin: 20px 0 0;
+}
+.currencie-inner {
+	padding: 20px 0 20px;
+}
+
+.owl-item.active.center {
+	padding: 0 30px;
+}
+.customers-slide p {
+	font-size: 13px;
+}
+
+#owl-demo .owl-prev {
+	display: none;
+}
+#owl-demo .owl-next {
+	display: none;
+}
+
+.invest-banner-right {
+	width: 100%;
+	margin-top: 10px;
+}
+.owl-demo3.owl-carousel .owl-item {
+	padding: 0 10px;
+}
+.currencie-outer .customers {
+	width: 100%;
+}
+
+.white-right a {
+	font-size: 15px;
+	padding: 8px 15px;
+	margin-top: 4px;
+}
+.invest-logo {
+	width: 100%;
+	float: left;
+}
+.invest-logo img {
+	max-width: 100%;
+}
+
+.switcher-white .invest-banner-right iframe {
+	width: 100% !important;
+}
+.invest-outer .slide1 {
+	margin-bottom: 20px;
+	flex-wrap: wrap;
+	text-align: center;
+}
+.invest-outer .slide1 .customer-img {
+	max-width: 100%;
+	margin-right: 0px;
+	display: inline-block;
+	width: 100%;
+}
+.invest-outer .slide1 .customer-img img {
+	max-width: 70px;
+}
+.customer-text {
+	padding-left: 0px;
+}
+.customer-text p {
+	font-size: 20px;
+	line-height: 25px;
+}
+.invest-outer .customers-inner h2 {
+	margin-bottom: 20px;
+}
+.invest-outer .customers-inner {
+	padding-left: 0%;
+	padding-right: 0%;
+}
+.customer-text {
+	padding-left: 0;
+	width: calc(100% - 0px);
+}
+
+.modal-content.popup {
+	/* padding: 20px; */
+	width: 90%;
+}
+.popup .close {
+	display: none !important;
+}
+.discover-white .article-image img {
+	width: 80px;
+}
+.owl-carousel .owl-stage-outer
+{
+	padding:30px 0;
+}
+.page-template-template-switcher-Bitcoin-white-trader .banner_form_box h3 {
+	padding-bottom: 20px;
+	padding-top: 10px;
+	line-height: 30px;
+	font-weight: 200;
+}
+.invest-popup h3 {
+	font-weight: 300;
+}
+.page-template-template-switcher-Bitcoin-white-trader .discover-inner h2 {
+	margin: 0 0 20px;
+	line-height: 45px;
+}
+.page-template-template-switcher-Bitcoin-white-trader .discover-inner2 {
+	position: relative;
+}
+.page-template-template-switcher-Bitcoin-white-trader .graph-img p {
+	position: absolute;
+	bottom: 0;
+	margin: 0;
+}
+.page-template-template-switcher-Bitcoin-white-trader .graph-button {
+	width: 100%;
+	padding: 0;
+	margin-bottom: 40px;
+}
+.invest-outer .customers-inner {
+	padding-left: 0%;
+	padding-right: 0%;
+}
+.currencie-inner {
+	padding: 20px 0 40px;
+}
+.page-template-template-switcher-Bitcoin-white-trader .invest-banner-left h1 {
+	padding: 30px 0 10px;
+	line-height: 45px;
+}
+.page-template-template-switcher-Bitcoin-white-trader .invest-inner {
+	padding: 20px 0px 21px;
+}
+.page-template-template-switcher-Bitcoin-white-trader .discover-inner {
+	padding: 20px 0px 30px;
+}
+.page-template-template-switcher-Bitcoin-white-trader .invest-logo {
+    width: 110px;
+}
+.white-right a {
+	margin-top: 0px;
+}
+.page-template-template-switcher-Bitcoin-white .invest-banner-left h1 {
+	padding: 40px 0 10px;
+}
+.page-template-template-switcher-Bitcoin-white .graph-text {
+	padding: 10px 0px 20px;
+}
+.page-template-template-switcher-Bitcoin-white .owl-demo3.owl-carousel .owl-item {
+	padding: 0 5px;
+}
+.page-template-template-switcher-Bitcoin-white .owl-demo3.owl-carousel .owl-item {
+	padding: 0 30px;
+}
+.page-template-template-switcher-Bitcoin-white .article-image {
+	width: 100%;
+}
+.page-template-template-switcher-Bitcoin-white .graph-img {
+	width: 100%;
+}
+.page-template-template-switcher-Bitcoin-white .graph-button {
+	width: 100%;
+	padding: 0;
+}	
+.page-template-template-switcher-Bitcoin-white .invest-button {
+	margin: 30px 0 0;
+}
+
+.page-template-template-switcher-Bitcoin-white .owl-demo3.owl-carousel .owl-item {
+	padding: 0 10px;
+}
+.page-template-template-switcher-Bitcoin-white .article-image {
+	width: 100%;
+}
+.page-template-template-switcher-Bitcoin-white .graph-img {
+	width: 100%;
+}
+.page-template-template-switcher-Bitcoin-white .graph-button {
+	width: 100%;
+	padding: 0;
+}	
+.page-template-template-switcher-Bitcoin-white .invest-button {
+	margin: 30px 0 0;
+}
+.owl-carousel .owl-stage-outer {
+	/* height: 242px; */
+}
+.page-template-template-switcher-Bitcoin-white .discover {
+	width: 100%;
+	margin: 0;
+}
+/* Switcher Bitcoin-end*/
+
+}
